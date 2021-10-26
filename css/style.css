@@ -143,3 +143,7 @@
 	font-size: 13px;
 	color: #aaa;
 }
+
+.footer a {
+	text-align: center;
+}
